@@ -1,5 +1,5 @@
 ---
-title: "EP004: 數據科學家的日常 (3) | 在加拿大求職經驗"
+title: "🔉 EP004: 數據科學家的日常 (3) | 在加拿大求職經驗"
 date: 2022-03-17
 isCJKLanguage: true
 tags:

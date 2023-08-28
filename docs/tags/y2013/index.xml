@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>y2013 on Fireside Chat with CUHK IE Alumni</title>
+    <title>y2013 on ✨ Fireside Chat with CUHK IE Alumni</title>
     <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2013/</link>
-    <description>Recent content in y2013 on Fireside Chat with CUHK IE Alumni</description>
+    <description>Recent content in y2013 on ✨ Fireside Chat with CUHK IE Alumni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/y2013/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/y2013/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EP011: Facebook 工程師的日常| 如何勝任科技公司軟件工程師工作</title>
+      <title>🔉 EP032: 從香港實習生到調職英國分公司的歷程 | 了解英國前端工程師的工作</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep032-rufina-tsoi/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/posts/ep032-rufina-tsoi/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;受訪校友&lt;/strong&gt;：蔡諾勛, Rufina Tsoi (2013, BEng IE)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時長&lt;/strong&gt;：35 分 52 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;語言&lt;/strong&gt;：廣東話&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>🔉 EP021: 日本IT業工作經驗分享 | 日資外資企業文化比較</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep021-joseph-chung/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/posts/ep021-joseph-chung/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;受訪校友&lt;/strong&gt;：鍾豪偉, Joseph Chung (2013, BSc CS)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時長&lt;/strong&gt;：32 分 21 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;語言&lt;/strong&gt;：廣東話&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>🔉 EP011: Facebook 工程師的日常| 如何勝任科技公司軟件工程師工作</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep011-calvin-chan/</link>
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
@@ -21,7 +47,7 @@
     </item>
     
     <item>
-      <title>EP002: 數據科學家的日常(2) | 淺談加拿大人對生活與工作的態度</title>
+      <title>🔉 EP002: 數據科學家的日常(2) | 淺談加拿大人對生活與工作的態度</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep002-peng-yu/</link>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
       

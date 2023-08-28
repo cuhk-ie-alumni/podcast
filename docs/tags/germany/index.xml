@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>germany on Fireside Chat with CUHK IE Alumni</title>
+    <title>germany on ✨ Fireside Chat with CUHK IE Alumni</title>
     <link>https://cuhk-ie-alumni.github.io/podcast/tags/germany/</link>
-    <description>Recent content in germany on Fireside Chat with CUHK IE Alumni</description>
+    <description>Recent content in germany on ✨ Fireside Chat with CUHK IE Alumni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/germany/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/germany/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EP003: 在德國工作體驗 | Site Reliability Engineer 究竟是什麼？</title>
+      <title>🔉 EP025: Data Engineer 工作內容及日常 | 歐洲科技公司面試經驗分享</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep025-alex-kam/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/posts/ep025-alex-kam/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;受訪校友&lt;/strong&gt;：甘曜榮, Alex Kam (2016, BEng IE)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時長&lt;/strong&gt;：38 分 12 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;語言&lt;/strong&gt;：廣東話&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>🔉 EP003: 在德國工作體驗 | Site Reliability Engineer 究竟是什麼？</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep003-michael-ng/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       

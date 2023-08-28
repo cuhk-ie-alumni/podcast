@@ -1,5 +1,5 @@
 baseURL: "https://cuhk-ie-alumni.github.io/podcast/"
-title: "Fireside Chat with CUHK IE Alumni"
+title: "✨ Fireside Chat with CUHK IE Alumni"
 theme: "PaperMod"
 paginate: 50
 publishDir: "docs"
@@ -10,9 +10,17 @@ params:
   disableThemeToggle: true
 
   homeInfoParams:
-    Title: "🎙️ Welcome! 歡迎！"
-    Content: "You can listen to this podcast programme on the following platforms:"
+    Title: "🎙️ 中大訊息工程校友訪談"
+    Content: >
+      - 我相信不論行業或年資，每個人的經歷都有值得參考借鏡之處。
+      我畢業於香港中文大學信息工程學系，在學期間獲益良多，畢業以後認識到不同屆別的畢業生，
+      都感到可以從他們身上學到不同知識。
+      我希望利用此頻道，不定期訪問現職不同行業或身處不同地域的校友，
+      讓在學的同學或已經離開校園的校友能夠了解他們的故事，從中找到啟發。
 
+      -
+
+      - [Albert Au Yeung](https://albertauyeung.github.io/)
   socialIcons:
   - name: spotify
     url: "https://open.spotify.com/show/1NlbOTYOvDnjkBj2ttIc9s"
@@ -21,7 +29,14 @@ params:
 
 menu:
   main:
-    - identifier: tags
-      name: tags
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 1
+    - name: Archive
+      url: archives
+      weight: 5
+    - identifier: Tags
+      name: Tags
       url: /tags/
       weight: 10

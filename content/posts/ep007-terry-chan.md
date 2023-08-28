@@ -1,5 +1,5 @@
 ---
-title: "EP007: 在加拿大重拾課本 | 加拿大求職心得"
+title: "🔉 EP007: 在加拿大重拾課本 | 加拿大求職心得"
 date: 2022-04-27
 isCJKLanguage: true
 tags:

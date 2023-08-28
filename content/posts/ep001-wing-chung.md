@@ -1,5 +1,5 @@
 ---
-title: "EP001: 數據科學家的日常 | 轉職數據科學家的過程及挑戰"
+title: "🔉 EP001: 數據科學家的日常 | 轉職數據科學家的過程及挑戰"
 date: 2022-02-02
 isCJKLanguage: true
 tags:

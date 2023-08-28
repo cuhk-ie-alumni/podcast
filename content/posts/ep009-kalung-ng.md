@@ -1,5 +1,5 @@
 ---
-title: "EP009: 愛爾蘭留學及求職經驗分享 | 一探 Service Engineer 的日常工作"
+title: "🔉 EP009: 愛爾蘭留學及求職經驗分享 | 一探 Service Engineer 的日常工作"
 date: 2022-05-26
 isCJKLanguage: true
 tags:

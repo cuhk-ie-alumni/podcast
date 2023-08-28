@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>softwareengineer on Fireside Chat with CUHK IE Alumni</title>
+    <title>softwareengineer on ✨ Fireside Chat with CUHK IE Alumni</title>
     <link>https://cuhk-ie-alumni.github.io/podcast/tags/softwareengineer/</link>
-    <description>Recent content in softwareengineer on Fireside Chat with CUHK IE Alumni</description>
+    <description>Recent content in softwareengineer on ✨ Fireside Chat with CUHK IE Alumni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/softwareengineer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/softwareengineer/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EP006: 科技公司求職過程 | 英國生活分享</title>
+      <title>🔉 EP033: 利用各雲端平台進行軟件開發的工作內容 | 在英國求職及工作經驗分享</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep033-michael-ho/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/posts/ep033-michael-ho/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;受訪校友&lt;/strong&gt;：何沛聰, Michael Ho (2016, BEng IE)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時長&lt;/strong&gt;：33 分 15 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;語言&lt;/strong&gt;：廣東話&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>🔉 EP032: 從香港實習生到調職英國分公司的歷程 | 了解英國前端工程師的工作</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep032-rufina-tsoi/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/posts/ep032-rufina-tsoi/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;受訪校友&lt;/strong&gt;：蔡諾勛, Rufina Tsoi (2013, BEng IE)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時長&lt;/strong&gt;：35 分 52 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;語言&lt;/strong&gt;：廣東話&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>🔉 EP023: 金融業軟件工程師的日常 | 團隊合作及聆聽能力的重要性</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep023-grace-chau/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/posts/ep023-grace-chau/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;受訪校友&lt;/strong&gt;：周敏平, Grace Chau (2006, BEng IE)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時長&lt;/strong&gt;：36 分 30 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;語言&lt;/strong&gt;：廣東話&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>🔉 EP006: 科技公司求職過程 | 英國生活分享</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep006-kevin-cheung/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -21,7 +60,7 @@
     </item>
     
     <item>
-      <title>EP005: From Engineer to IT Consultant to Senior Management</title>
+      <title>🔉 EP005: From Engineer to IT Consultant to Senior Management</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep005-marco-leung/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       
@@ -34,7 +73,7 @@
     </item>
     
     <item>
-      <title>EP001: 數據科學家的日常 | 轉職數據科學家的過程及挑戰</title>
+      <title>🔉 EP001: 數據科學家的日常 | 轉職數據科學家的過程及挑戰</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep001-wing-chung/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       

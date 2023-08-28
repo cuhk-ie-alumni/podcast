@@ -1,27 +1,567 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Fireside Chat with CUHK IE Alumni</title>
+    <title>Tags on ✨ Fireside Chat with CUHK IE Alumni</title>
     <link>https://cuhk-ie-alumni.github.io/podcast/tags/</link>
-    <description>Recent content in Tags on Fireside Chat with CUHK IE Alumni</description>
+    <description>Recent content in Tags on ✨ Fireside Chat with CUHK IE Alumni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cloudcomputing</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/cloudcomputing/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/cloudcomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>softwareengineer</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/softwareengineer/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/softwareengineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uk</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/uk/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upland</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/upland/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/upland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2016</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2016/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2013</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2013/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazon</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/amazon/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/aws/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/aws/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hongkong</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/tags/hongkong/</link>
-      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cuhk-ie-alumni.github.io/podcast/tags/hongkong/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>solutionarchitect</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/solutionarchitect/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/solutionarchitect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2004</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2004/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dataengineer</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/dataengineer/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/dataengineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2012</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2012/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zuhlke</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/zuhlke/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/zuhlke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dataanalyst</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/dataanalyst/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/dataanalyst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datascientist</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/datascientist/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/datascientist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visa</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/visa/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/visa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2019</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2019/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osmium</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/osmium/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/osmium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recruiting</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/recruiting/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/recruiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/startup/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2018</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2018/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>casetify</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/casetify/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/casetify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digitaltransformation</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/digitaltransformation/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/digitaltransformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptocurrency</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/cryptocurrency/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>societegenerale</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/tags/societegenerale/</link>
-      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cuhk-ie-alumni.github.io/podcast/tags/societegenerale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>germany</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/germany/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/germany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kosenlabs</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/kosenlabs/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/kosenlabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/microsoft/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presales</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/presales/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/presales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salesforce</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/salesforce/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/salesforce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workday</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/workday/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/workday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2014</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2014/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>banking</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/banking/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/banking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>creditsuisse</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/creditsuisse/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/creditsuisse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fintech</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/fintech/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/fintech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2006</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2006/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ergon</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/ergon/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/ergon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hrtech</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/hrtech/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/hrtech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2011</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2011/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/devops/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>japan</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/japan/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rakuten</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/rakuten/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/rakuten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toyota</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/toyota/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/toyota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wovenplanet</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/wovenplanet/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/wovenplanet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>australia</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/australia/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consulting</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/consulting/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cybersecurity</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/cybersecurity/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phd</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/phd/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/google/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productmanager</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/productmanager/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/productmanager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>singapore</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/singapore/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/singapore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>businessdevelopment</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/businessdevelopment/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/businessdevelopment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pccw</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/pccw/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/pccw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2005</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2005/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taiwan</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/taiwan/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/taiwan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>y2007</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2007/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logistics</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/logistics/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/logistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maersk</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/maersk/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/maersk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computervision</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/computervision/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/computervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deeplearning</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/deeplearning/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/deeplearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ntu</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/tags/ntu/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/ntu/</guid>
       <description></description>
     </item>
     
@@ -53,29 +593,11 @@
     </item>
     
     <item>
-      <title>fintech</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/fintech/</link>
-      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/fintech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pitchbook</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/tags/pitchbook/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cuhk-ie-alumni.github.io/podcast/tags/pitchbook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>uk</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/uk/</link>
-      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/uk/</guid>
       <description></description>
     </item>
     
@@ -152,47 +674,11 @@
     </item>
     
     <item>
-      <title>y2013</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2013/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>banking</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/banking/</link>
-      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/banking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hsbc</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/tags/hsbc/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cuhk-ie-alumni.github.io/podcast/tags/hsbc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>productmanager</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/productmanager/</link>
-      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/productmanager/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>y2004</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2004/</link>
-      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2004/</guid>
       <description></description>
     </item>
     
@@ -220,24 +706,6 @@
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cuhk-ie-alumni.github.io/podcast/tags/supportengineer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>y2016</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2016/</link>
-      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cybersecurity</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/cybersecurity/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/cybersecurity/</guid>
       <description></description>
     </item>
     
@@ -278,15 +746,6 @@
     </item>
     
     <item>
-      <title>softwareengineer</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/softwareengineer/</link>
-      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/softwareengineer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>y2020</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2020/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
@@ -314,56 +773,11 @@
     </item>
     
     <item>
-      <title>y2014</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2014/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>datascientist</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/datascientist/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/datascientist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>loblaw</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/tags/loblaw/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cuhk-ie-alumni.github.io/podcast/tags/loblaw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phd</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/phd/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>germany</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/germany/</link>
-      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/germany/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>google</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/google/</link>
-      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/google/</guid>
       <description></description>
     </item>
     
@@ -400,15 +814,6 @@
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cuhk-ie-alumni.github.io/podcast/tags/tvb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>y2011</title>
-      <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2011/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cuhk-ie-alumni.github.io/podcast/tags/y2011/</guid>
       <description></description>
     </item>
     

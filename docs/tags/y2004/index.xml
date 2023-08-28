@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>y2004 on Fireside Chat with CUHK IE Alumni</title>
+    <title>y2004 on ✨ Fireside Chat with CUHK IE Alumni</title>
     <link>https://cuhk-ie-alumni.github.io/podcast/tags/y2004/</link>
-    <description>Recent content in y2004 on Fireside Chat with CUHK IE Alumni</description>
+    <description>Recent content in y2004 on ✨ Fireside Chat with CUHK IE Alumni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/y2004/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cuhk-ie-alumni.github.io/podcast/tags/y2004/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EP010: 軟件開發轉職產品經理的挑戰 | 工餘時間爭取機會提升軟技能</title>
+      <title>🔉 EP031: AWS Solution Architect 的工作內容 | 如何應對 Generative AI 的熱潮</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep031-peter-chan/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/posts/ep031-peter-chan/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;受訪校友&lt;/strong&gt;：陳永霆, Peter Chan (2004, BEng IE)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時長&lt;/strong&gt;：33 分 9 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;語言&lt;/strong&gt;：廣東話&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>🔉 EP027: Digital Transformation 利用科技助企業進步 | 在職場建立自己的網絡及個人品牌</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep027-lorenz-so/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/posts/ep027-lorenz-so/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;受訪校友&lt;/strong&gt;：蘇鴻澤, Lorenz So (2004, BEng IE)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時長&lt;/strong&gt;：34 分 39 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;語言&lt;/strong&gt;：廣東話&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>🔉 EP016: 工程學系畢業生在物流業 | 在德國及新加坡工作體驗</title>
+      <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep016-lance-wong/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuhk-ie-alumni.github.io/podcast/posts/ep016-lance-wong/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;受訪校友&lt;/strong&gt;：黃家樂, Lance Wong (2004, BEng IE)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時長&lt;/strong&gt;：31 分 1 秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;語言&lt;/strong&gt;：廣東話&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>🔉 EP010: 軟件開發轉職產品經理的挑戰 | 工餘時間爭取機會提升軟技能</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep010-francis-chong/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
@@ -21,7 +60,7 @@
     </item>
     
     <item>
-      <title>EP007: 在加拿大重拾課本 | 加拿大求職心得</title>
+      <title>🔉 EP007: 在加拿大重拾課本 | 加拿大求職心得</title>
       <link>https://cuhk-ie-alumni.github.io/podcast/posts/ep007-terry-chan/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       

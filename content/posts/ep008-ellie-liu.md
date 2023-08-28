@@ -1,5 +1,5 @@
 ---
-title: "EP008: 了解 Cyber Security 及 IT Consultant 的工作內容"
+title: "🔉 EP008: 了解 Cyber Security 及 IT Consultant 的工作內容"
 date: 2022-05-02
 isCJKLanguage: true
 tags:

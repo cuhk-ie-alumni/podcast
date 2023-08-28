@@ -1,5 +1,5 @@
 ---
-title: "EP003: 在德國工作體驗 | Site Reliability Engineer 究竟是什麼？"
+title: "🔉 EP003: 在德國工作體驗 | Site Reliability Engineer 究竟是什麼？"
 date: 2022-03-07
 isCJKLanguage: true
 tags:

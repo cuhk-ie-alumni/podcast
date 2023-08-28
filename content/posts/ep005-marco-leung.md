@@ -1,5 +1,5 @@
 ---
-title: "EP005: From Engineer to IT Consultant to Senior Management"
+title: "🔉 EP005: From Engineer to IT Consultant to Senior Management"
 date: 2022-03-28
 isCJKLanguage: true
 tags:
