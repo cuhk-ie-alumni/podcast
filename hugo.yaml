@@ -9,6 +9,9 @@ params:
 
   defaultTheme: light
   disableThemeToggle: true
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
 
   homeInfoParams:
     Title: "🎙️ 中大訊息工程校友訪談"
