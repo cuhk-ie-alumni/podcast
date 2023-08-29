@@ -1,7 +1,7 @@
 baseURL: "https://cuhk-ie-alumni.github.io/podcast/"
 title: "✨ Fireside Chat with CUHK IE Alumni"
 theme: "PaperMod"
-paginate: 50
+paginate: 20
 publishDir: "docs"
 googleAnalytics: G-P5EPK4NMSG
 
@@ -9,7 +9,6 @@ params:
 
   defaultTheme: light
   disableThemeToggle: true
-  ShowShareButtons: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
 
@@ -33,10 +32,6 @@ params:
 
 menu:
   main:
-    - identifier: About
-      name: About
-      url: /about/
-      weight: 1
     - name: Archive
       url: archives
       weight: 5
